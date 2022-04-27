@@ -6,4 +6,4 @@ As of today, 2022-04-27, there is no code or hardware but we're going to use [Ki
 
 ## License
 
-Copyright 2021 © [Freedom Government](https://freedomgovernment.github.io); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/FreedomGovernment>.
+Copyright 2022 [Freedom Government](https://freedomgovernment.github.io); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/FreedomGovernment>.

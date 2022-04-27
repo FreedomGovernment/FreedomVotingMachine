@@ -1,0 +1,19 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 9538e4ed-27e6-4c37-b989-9859dc0d49e8)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Freedom Voting Machine" (at 186.69 173.99 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 18f1018d-5857-4c32-a072-f3de80352f74)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
