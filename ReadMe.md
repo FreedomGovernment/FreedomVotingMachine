@@ -6,7 +6,7 @@ You can find all of our [OneDrive folder documents here](https://1drv.ms/u/s!AmV
 
 ## Volunteers
 
-We are in need of volunteers for a wide range of different skill sets from voting machine researchers to organizers, programmers, engineers, cyber-security and more. You can find instructions on how to contribute open-source to this project in the [`Contributing.md'](Contributing) documentation, where you can also find instructions on how to join the community chat on our GitHub issue tickets.
+We are in need of volunteers for a wide range of different skill sets from voting machine researchers to organizers, programmers, engineers, cyber-security and more. You can find instructions on how to contribute open-source to this project in the [`Contributing.md'](https://github.com/FreedomGovernment/FreedomVotingMachine/blob/master/Contributing.md) documentation, where you can also find instructions on how to join the community chat on our GitHub issue tickets.
 
 ## Status
 
