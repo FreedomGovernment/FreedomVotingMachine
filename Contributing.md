@@ -1,6 +1,6 @@
 # Volunteers
 
-Thank you for your interest in volunteering for the Freedom Government. You can find a description of the roles we're looking for below. If you want to get started right away, start and fork this repo. If you do not know know how to do this you probably wont' be very useful forking the project, so just contribute via OneDrive and comments. Thanks.
+Thank you for your interest in volunteering for the Freedom Government. You can find a description of the volunteer opportunities we have bellow. If you want to get started right away, start and fork this repo. If you do not know know how to do this you probably won't be very useful forking the project, so just contribute via OneDrive and comments. Thanks.
 
 ## Voting Machine Researcher
 
