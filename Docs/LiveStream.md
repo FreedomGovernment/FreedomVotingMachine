@@ -1,3 +1,7 @@
+---
+title: Freedom Voting Machine — Live Coding (GitHub Workspace)
+description: Open-source live-coding session for the Freedom Voting Machine and AI voter-fraud-detection algorithms (milestone 1).
+---
 Freedom Voting Machines open-source live coding 3: GitHub Workspace
 
 This is an open-source live coding and hacking session for the Freedom Voting Machine and AI voter fraud detection algorithms. Can you help us reach our next GitHub Milestone? This is our first Milestone. In this Milestone, we are setting up the GitHub workspace and adding instructions for volunteers to contribute research and existing voting machine documentation via a OneDrive, Google Drive, etc link.
