@@ -1,17 +1,17 @@
 ---
 name: Mission
-about: A mission with a problem-solution analysis
+about: A mission with a problem-solution analysis.
 title: ''
 labels: ''
-assignees: 'AStarCale'
+assignees: ''
 ---
 ## Problem
 
-The problem I am addressing on this mission is...
+The problem is 
 
 ## Solution
 
-The solution that I'm addressing on this mission is...
+The solution is 
 
 ### File Affected
 

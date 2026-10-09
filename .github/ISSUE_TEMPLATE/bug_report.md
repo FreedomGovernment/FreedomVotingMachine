@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: ''
-assignees: 'AStarCale'
+assignees: ''
 ---
 ## Problem
 
@@ -28,8 +28,8 @@ If applicable, add screenshots to help explain your problem.
 
 ### Platform
 
- - OS: [e.g. Windows 10 2004]
- - Version [e.g. 0.6.1]
+- OS: [e.g. Windows 10 2004]
+- Version [e.g. 0.6.1]
 
 ### Context
 
