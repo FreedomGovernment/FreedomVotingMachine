@@ -1,3 +1,7 @@
+---
+title: Freedom Voting Machine — Contributing
+description: Volunteer opportunities and how to start contributing (fork the repo).
+---
 # Volunteers
 
 Thank you for your interest in volunteering for the Freedom Government. You can find a description of the volunteer opportunities we have bellow. If you want to get started right away, start and fork this repo. If you do not know know how to do this you probably won't be very useful forking the project, so just contribute via OneDrive and comments. Thanks.
@@ -15,6 +19,8 @@ If you are interested in volunteering for this position, drop a comment on the f
 If you are interested in volunteering for this position, drop a comment on the following issue ticket: FreedomGovernment/FreedomVotingMachine#8
 
 ## Software Engineer
+
+We are in need of software engineers to help us write our documentation and do some C++ programming on [Kabuki Toolkit](https://github.com/KabukiStarship/KabukiToolkit) and [Script2](https://github.com/KabukiStarship/Script2).
 
 If you are interested in volunteering for this position, drop a comment on the following issue ticket: FreedomGovernment/FreedomVotingMachine#9
 
